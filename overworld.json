@@ -1,0 +1,54 @@
+{
+    "pinpoints": [
+        {
+            "path": "origin.png",
+            "x": -67,
+            "y": 0
+        },
+        {
+            "path": "cavehome.png",
+            "x": 906,
+            "y": -137
+        },
+        {
+            "path": "lavafallapplestore.png",
+            "x": 1110,
+            "y": -223
+        },
+        {
+            "path": "islandbothy.png",
+            "x": 924,
+            "y": 119
+        },
+        {
+            "path": "pinkhouse.jpg",
+            "x": 1963,
+            "y": 1539
+        },
+        {
+            "path": "station.png",
+            "x": 1879,
+            "y": 2623
+        },
+        {
+            "path": "pyramid.PNG",
+            "x": 1338,
+            "y": 2425
+        },
+        {
+            "path": "zebrahouse.PNG",
+            "x": -4116,
+            "y": 4009
+        },
+        {
+            "path": "pinkigloo.png",
+            "x": -4127,
+            "y": 3745
+        },
+        {
+            "path": "swampportal.png",
+            "x": -1715,
+            "y": 2212
+        }
+    ]
+}

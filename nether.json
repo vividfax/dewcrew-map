@@ -1,0 +1,24 @@
+{
+    "pinpoints": [
+        {
+            "path": "nethergarden.png",
+            "x": 159,
+            "y": 295
+        },
+        {
+            "path": "nethertower.png",
+            "x": -216,
+            "y": 296
+        },
+        {
+            "path": "greenforest.png",
+            "x": -463,
+            "y": 374
+        },
+        {
+            "path": "redforest.png",
+            "x": -516,
+            "y": 508
+        }
+    ]
+}
