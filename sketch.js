@@ -95,3 +95,8 @@ function keyPressed() {
 
     realm = !realm;
 }
+
+function mousePressed() {
+
+    realm = !realm;
+}
