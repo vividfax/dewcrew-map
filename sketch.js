@@ -83,9 +83,9 @@ function displayCoords() {
     let y = mouseY;
 
     x -= (width/2);
-    x /= 0.05
+    x /= 0.03;
     y -= (height/2);
-    y /= 0.05;
+    y /= 0.03;
 
     textSize(20);
     text(x + ", " + y, 20, 40);
