@@ -19,6 +19,11 @@
             "path": "redforest.png",
             "x": -516,
             "y": 508
+        },
+        {
+            "path": "9kportalnether.png",
+            "x": -1181,
+            "y": 1202
         }
     ]
 }

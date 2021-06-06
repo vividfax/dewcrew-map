@@ -49,6 +49,11 @@
             "path": "swampportal.png",
             "x": -1715,
             "y": 2212
+        },
+        {
+            "path": "9kportal.png",
+            "x": -9364,
+            "y": 9702
         }
     ]
 }

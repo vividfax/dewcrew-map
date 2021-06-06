@@ -72,7 +72,7 @@ function displayWorld(pins) {
     for (i in pins) {
 
         if (pins[i].hover(mouseX, mouseY)) {
-            pins[i].display(1708 * 5, 960 * 5);
+            pins[i].display(1708 * 10, 960 * 10);
         }
     }
 }
