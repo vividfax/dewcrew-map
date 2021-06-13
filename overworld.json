@@ -54,6 +54,101 @@
             "path": "9kportal.png",
             "x": -9364,
             "y": 9702
+        },
+        {
+            "path": "beehivehome.png",
+            "x": -3840,
+            "y": 3438
+        },
+        {
+            "path": "mushroomswamp.png",
+            "x": -3923,
+            "y": 2470
+        },
+        {
+            "path": "waterruins.png",
+            "x": -4150,
+            "y": 1718
+        },
+        {
+            "path": "taiga.png",
+            "x": -4586,
+            "y": -512
+        },
+        {
+            "path": "jungle.png",
+            "x": -4387,
+            "y": -1645
+        },
+        {
+            "path": "whitehorses.png",
+            "x": -3959,
+            "y": -3066
+        },
+        {
+            "path": "acaciavillage.png",
+            "x": -1414,
+            "y": -3926
+        },
+        {
+            "path": "plainshorses.png",
+            "x": -1049,
+            "y": -3932
+        },
+        {
+            "path": "spottedhorses.png",
+            "x": -154,
+            "y": -4067
+        },
+        {
+            "path": "snowybeach.png",
+            "x": 1405,
+            "y": -4205
+        },
+        {
+            "path": "snowybeach.png",
+            "x": 1405,
+            "y": -4205
+        },
+        {
+            "path": "snowypines.png",
+            "x": 1574,
+            "y": -4110
+        },
+        {
+            "path": "snowytundra.png",
+            "x": 2096,
+            "y": -4141
+        },
+        {
+            "path": "moretaiga.png",
+            "x": 2906,
+            "y": -4150
+        },
+        {
+            "path": "acacia.png",
+            "x": 4234,
+            "y": 141
+        },
+        {
+            "path": "horseisland.png",
+            "x": 4221,
+            "y": 286
+        },
+        {
+            "path": "mushroomforest.png",
+            "x": -207,
+            "y": 4222
+        },
+        {
+            "path": "coralreef.png",
+            "x": -1022,
+            "y": 4368
+        },
+        {
+            "path": "moreshrooms.png",
+            "x": -3046,
+            "y": 4286
         }
     ]
 }

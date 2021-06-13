@@ -17,7 +17,7 @@ class Pinpoint {
         push();
         imageMode(CENTER);
         translate(width/2, height/2);
-        scale(0.03);
+        scale(0.05);
         image(this.img, this.x, this.y, w, h);
         pop();
     }
@@ -25,9 +25,9 @@ class Pinpoint {
     hover(x, y) {
 
         x -= (width/2);
-        x /= 0.03;
+        x /= 0.05;
         y -= (height/2);
-        y /= 0.03;
+        y /= 0.05;
 
         let distance = dist(x, y, this.x, this.y);
 

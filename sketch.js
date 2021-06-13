@@ -72,7 +72,7 @@ function displayWorld(pins) {
     for (i in pins) {
 
         if (pins[i].hover(mouseX, mouseY)) {
-            pins[i].display(1708 * 10, 960 * 10);
+            pins[i].display(1708 * 7, 960 * 7);
         }
     }
 }
@@ -83,12 +83,12 @@ function displayCoords() {
     let y = mouseY;
 
     x -= (width/2);
-    x /= 0.03;
+    x /= 0.05;
     y -= (height/2);
-    y /= 0.03;
+    y /= 0.05;
 
     textSize(20);
-    text(x + ", " + y, 20, 40);
+    text(int(x) + ", " + int(y), 20, 40);
 }
 
 function keyPressed() {
