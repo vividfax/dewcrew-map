@@ -24,6 +24,11 @@
             "path": "9kportalnether.png",
             "x": -1181,
             "y": 1202
+        },
+        {
+            "path": "netherfortress.png",
+            "x": -28,
+            "y": 205
         }
     ]
 }
