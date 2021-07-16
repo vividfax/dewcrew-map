@@ -164,6 +164,11 @@
             "path": "amethyst2.png",
             "x": -3564,
             "y": 3993
+        },
+        {
+            "path": "mooshrooms.png",
+            "x": -6189,
+            "y": 3173
         }
     ]
 }
